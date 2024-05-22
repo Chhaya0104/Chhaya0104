@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chhaya0104
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Java
+  
 
 
 <!---
